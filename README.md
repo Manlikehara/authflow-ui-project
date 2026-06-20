@@ -56,3 +56,16 @@ Technologies Used
 - JavaScript
 - Git
 - GitHub
+
+- ## Team Contributions
+Name,Registration Number,Contribution 
+1.Usman Albishir Moroma CIS/STE/23/2006  Group Leader, Repository Setup, Project Coordination, Pull Request Review and Merge and Developed the Landing Page (`index.html`)
+2.Kabir Usman CIS/STE/23/2001 Developed the Login Page (`login.html`)
+3.Faisal Ibrahim CIS/STE/23/2007  Developed the Signup Page (`signup.html`)
+4.Aisha Nuhu Isah CIS/STE/23/2004 Developed the Forgot Password Page (`forgot-password.html`)
+5.Yusuf Sani Lawal CIS/STE/23/2005 Added Project Overview, Objectives, Features, and Technologies documentation to README.md
+6.Jibril Umar Garba CIS/STE/23/2003 Added Project Structure, GitHub Workflow, and Installation Guide documentation to README.md
+7.Umar Yusha’u CIS/STE/23/2008 Reviewed Responsive Design and Cross-Device Compatibility
+8.Muslim Hamisu Kofarbai CIS/STE/23/2031 Added Team Contributions and Project Conclusion sections to README.md
+9.Karima Yusha’u Rafindadi CIS/STE/23/2009
+10. Muhammad Awwal Tijjani  NAS/STE/21/1028
